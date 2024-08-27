@@ -106,12 +106,16 @@ body {
   background-color: #0a60f5fd;
   color: #fff;
 }
+.title {
+  margin-top: 50px;
+  display: none;
+}
 
 @media screen and (max-width: 600px) {
   .game {
     display: flex;
     flex-direction: column;
-    margin: 100px 30px;
+    margin: 50px 30px;
     width: 300px;
   }
   .game-info ol {
@@ -136,5 +140,8 @@ body {
   }
   .board {
     margin-right: 10px;
+  }
+  .title {
+    display: block;
   }
 }
