@@ -106,3 +106,24 @@ body {
   height: 40px;
   border-radius: 5px;
 }
+
+@media screen and (max-width: 600px) {
+  .game {
+    margin: 100px 0px ;
+  }
+  .square {
+    width: 90px;
+    height: 90px;
+    font-size: 40px;
+  }
+  .space {
+    margin-bottom: 5px;
+  }
+  .manage-game {
+    width: 120px;
+    height: 35px;
+  }
+  .board {
+    margin-right: 10px;
+  }
+}
