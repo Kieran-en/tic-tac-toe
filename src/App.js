@@ -89,7 +89,6 @@ export default function Game() {
 
   return (
     <>
-      <div className='title'><h1>Tic-Tac-Toe </h1></div>
       <div className="game">
       <div className="game-board">
         <Board xIsNext={xIsNext} squares={currentSquares} onPlay={handlePlay}/>
