@@ -111,7 +111,7 @@ body {
   .game {
     display: flex;
     flex-direction: column;
-    margin: 100px 60px;
+    margin: 100px 30px;
     width: 300px;
   }
   .game-info ol {
