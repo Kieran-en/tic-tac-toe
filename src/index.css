@@ -103,6 +103,7 @@ body {
   width: 120px;
   height: 40px;
   border-radius: 5px;
+  background-color: #0a60f5fd;
 }
 
 @media screen and (max-width: 600px) {
