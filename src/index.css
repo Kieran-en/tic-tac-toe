@@ -107,7 +107,7 @@ body {
   color: #fff;
 }
 .title {
-  margin-top: 50px;
+  margin-top: 0px;
   display: none;
 }
 
@@ -115,7 +115,7 @@ body {
   .game {
     display: flex;
     flex-direction: column;
-    margin: 50px 30px;
+    margin: 20px 30px;
     width: 300px;
   }
   .game-info ol {
